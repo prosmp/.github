@@ -1,5 +1,5 @@
 # The Pro SMP
-You've arrived on our GitHub organization profile. Unfortunately, we do not have any public repositories. Due to the nature of our code, it's unlikely that we'll ever get any public projects in the future.
+You've arrived on our organization's GitHub profile. Unfortunately, we do not have any public repositories. Due to the nature of our code, it's unlikely that we'll ever get any public projects in the future.
 Members of our organization are staff members of The Pro SMP.
 
 ## About us
