@@ -2,7 +2,7 @@
 You've arrived on our GitHub organization profile. Unfortunately, we do not have any public repositories. Due to the nature of our code, it's unlikely that we'll ever get any public projects in the future.
 Members of our organization are staff members of The Pro SMP.
 
-## More about us
+## About us
 The Pro SMP is a private Minecraft server for friends. The server was founded by Proxtious and MeesJ_ on March 23, 2021.
 
 To join and become part of our server, you'll need a friend who is a member of The Pro SMP community. They can send you an invite. We do not allow complete strangers on our server.
