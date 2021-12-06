@@ -10,6 +10,6 @@ To join and become part of our server, you'll need a friend who is a member of T
 ## Contact us
 To contact us, please send an email to [theprosmp@mees.one](mailto:theprosmp@mees.one). Please **do not** contact any of our staff members directly.
 Things to keep in mind when contacting us:
-- We do not provide any invites to our server (as mentioned above, you'll need a friend who is a member of our server to get an invite)	
+- We do not provide any invites to our server (as mentioned above, you'll need a friend who is a member of our community to get an invite
 - If you're a member of The Pro SMP, DM an online staff member with your inquiry on Discord (unless you're emailing us because your Discord account was terminated, hacked or locked)
 - Unsolicited advertisements for hosting services are not appreciated
