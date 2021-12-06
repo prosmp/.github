@@ -7,8 +7,6 @@ The Pro SMP is a private Minecraft server for friends. The server was founded by
 
 To join and become part of our server, you'll need a friend who is a member of The Pro SMP community. They can send you an invite. We do not allow complete strangers on our server.
 
-![The Pro SMP logo](https://cdn.mees.one/TheProSMP/icon-384x384.png)
-
 ## Contact us
 To contact us, please send an email to [theprosmp@mees.one](mailto:theprosmp@mees.one). Please **do not** contact any of our staff members directly.
 Things to keep in mind when contacting us:
